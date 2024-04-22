@@ -19,6 +19,6 @@ const routes: Routes = [
         HttpClientModule,
         SeriesModule
     ],
-    bootstrap: [AppComponent] // Agrega AppComponent aquí
+    bootstrap: [AppComponent] 
 })
 export class AppModule { }
